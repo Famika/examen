@@ -1,0 +1,117 @@
+#mi{
+	text-align: center;
+	font-family: Blackadder ITC;
+	color: red;
+	font-size: 100px;
+	border:shadow;
+	text-shadow: 20px 20 px 20px black;
+	
+}
+
+
+#mi:hover{
+	
+	text-align: center;
+	font-family: Blackadder ITC;
+	color: black;	
+	}
+
+#mn{
+	text-align: inline;
+	font-family: Bradley Hand ITC;
+	font-size:25px;
+	float: center;
+	margin-right: 100px;
+	margin-left: 50px;
+}
+#mn:hover{
+	text-indent: 21px;
+	font-family: blackadder ITC;
+	color: black;
+	animation-duration: 8s;
+	animation: bounceOutLeft;
+
+}
+#descr{
+	font-size: 30px;
+	font-family: Bradley Hand ITC;
+	color:Comic Sans MS;
+	animation-name: slideInUp;
+	animation transition-duration: 5s;
+	animation-iteration-count:infinite;
+}
+
+
+
+}
+#Pro{
+	background-image:url(../img/c.jpg);
+	background-repeat: repeat;
+
+}
+
+/
+#experience{
+	
+}
+#id{
+	font-size: 15px
+}
+#for{
+	background-image:url(../img/b.jpg);
+	background-repeat: repeat;
+}
+#SU{
+	text-align: center;
+}
+#nom{
+	font-family: Bradley Hand ITC;
+}
+#akim {
+color:black;
+font-family:chiller;
+
+}
+#kim{
+width:200px;
+height: 200px;
+float:right;
+}
+#img{
+width:200px;
+height: 200px;
+float:left;
+}
+#nav{
+	background-color: red;
+}
+#b{
+	font-family: Bradley Hand ITC;
+}
+#al{
+	
+	margin-left: 120px;
+}
+
+.id{
+	font-size: 200%;
+}
+#so{
+	font-family: Harlow Solid Italic;
+	font-size: 120px;
+}
+#cont{
+	font-size: 120px;
+	float: 
+}
+#we{
+	margin-left: 250px;
+}
+#proj{
+	font-family: Century Schoolbook;
+}
+
+.sary img{
+    height: 320px;
+    width: 240px;
+}
